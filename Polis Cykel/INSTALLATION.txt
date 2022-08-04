@@ -1,0 +1,5 @@
+INSTALLATION
+
+1. USE YOUR MODS FOLDER
+
+2. Locate x64e.rpf>levels>gta5>vehicles.rpf
